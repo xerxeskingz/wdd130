@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>close</title>
+    <g id="mockup-academy" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.6">
+        <g id="visual-academy-lesson-post-V2" transform="translate(-325.000000, -83.000000)" fill="#000000">
+            <g id="left-slide" transform="translate(0.000000, 61.000000)">
+                <polygon id="close" transform="translate(332.094061, 29.094061) rotate(-315.000000) translate(-332.094061, -29.094061) " points="340.645854 28.1438622 333.044261 28.1438622 333.044261 20.5422686 331.143862 20.5422686 331.143862 28.1438622 323.542269 28.1438622 323.542269 30.0442606 331.143862 30.0442606 331.143862 37.6458542 333.044261 37.6458542 333.044261 30.0442606 340.645854 30.0442606"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

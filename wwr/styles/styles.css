@@ -1,0 +1,72 @@
+nav a
+#hero-msg h1, #hero-msg h4
+.button-box
+main section
+
+#background {
+    height: 700px;
+}
+
+body {
+    background-color: #c1abab; 
+}
+header {
+    background-color:rgba(13, 58, 75, 0.7);
+}
+nav a:hover {
+    background-color: rgb(121, 220, 34);
+}
+nav a
+#hero-msg h1, #hero-msg h4
+.button-box
+main section
+
+#background {
+    height: 300px;
+}
+
+body
+header
+nav a:hover
+.book, .join
+.book:hover, .join:hover
+#background
+.msg
+footer
+
+body {
+    background-color: #fcfbfb; 
+}
+header {
+    background-color:rgba(20,30,13, .7);
+}
+nav a:hover {
+    background-color: black;
+}
+          
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+}    
+
+
+
+.icon {
+    width: 80px;
+    height: 150px;
+}
+
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}    
+
+footer p {
+    font-size: 1.2em;
+}    
+
+footer p a:hover {
+    text-decoration: underline;
+}    
+

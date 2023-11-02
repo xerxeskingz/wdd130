@@ -1,0 +1,22 @@
+h1{
+    color: #cccccc;
+    background-color: #000000;
+   }
+   
+   .main-para {
+    font-size: 1.5em;
+    line-height: 1.5em;
+    font-weight: bold;
+    color: #d5ce92;
+    font-style: italic;
+    }
+
+
+#active {
+    background-color: white;
+    color: steelblue;
+    font-size: 2em;
+    color: #187cb9;
+    font-weight: bold:
+    }
+}

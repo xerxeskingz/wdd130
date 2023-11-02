@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>nav-initial-profile</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="14.5" cy="14.5" r="14.5"></circle>
+        <circle id="path-3" cx="14.5" cy="14.5" r="14.5"></circle>
+    </defs>
+    <g id="symbol" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="nav-initial-profile">
+            <g transform="translate(1.000000, 1.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <circle stroke="#FFFFFF" cx="14.5" cy="14.5" r="15"></circle>
+                <mask id="mask-4" fill="white">
+                    <use xlink:href="#path-3"></use>
+                </mask>
+                <circle stroke="#FFFFFF" cx="14.5" cy="14.5" r="15"></circle>
+                <circle id="Oval" stroke="#979797" fill="#E9E5DE" mask="url(#mask-4)" cx="14.5" cy="15.5" r="16.5"></circle>
+                <path d="M8.67066523,19.2193824 C10.4545323,18.4352536 12.4264367,18 14.5,18 C16.5735633,18 18.5454677,18.4352536 20.3293348,19.2193824 C18.9542964,20.915715 16.8537724,22 14.5,22 C12.1462276,22 10.0457036,20.915715 8.67066523,19.2193824 Z" id="Combined-Shape" fill="#56687A" mask="url(#mask-4)"></path>
+                <path d="M8.67066523,19.2193824 C10.0457036,20.915715 12.1462276,22 14.5,22 C16.8537724,22 18.9542964,20.915715 20.3293348,19.2193824 C25.4347857,21.4635693 29,26.5654345 29,32.5 C29,40.5081289 22.5081289,47 14.5,47 C6.49187113,47 0,40.5081289 0,32.5 C0,26.5654345 3.56521433,21.4635693 8.67066523,19.2193824 Z" id="Combined-Shape" fill="#9EB3C8" mask="url(#mask-4)"></path>
+                <path d="M8.67066523,19.2193824 C7.62593034,17.9305327 7,16.2883633 7,14.5 C7,10.3578644 10.3578644,7 14.5,7 C18.6421356,7 22,10.3578644 22,14.5 C22,16.2883633 21.3740697,17.9305327 20.3293348,19.2193824 C18.5454677,18.4352536 16.5735633,18 14.5,18 C12.4264367,18 10.4545323,18.4352536 8.67066523,19.2193824 Z" id="Combined-Shape" fill="#788FA5" mask="url(#mask-4)"></path>
+            </g>
+        </g>
+    </g>
+</svg>
