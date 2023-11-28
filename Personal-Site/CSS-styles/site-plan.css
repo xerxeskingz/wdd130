@@ -7,15 +7,15 @@
   --paragraph-font: Titillium, Helvetica, sans-serif;
 
   /* these colors below should be chosen from among your palette colors above */
-  --headline-color-on-white: #6e3d7d; /* headlines on a colored background */ 
-  --paragraph-color-on-white: #797272; /* paragraph text on a white background */ 
-  --paragraph-color-on-color: #766a1b; /* paragraph text on a colored background */ 
-  --paragraph-background-color: #60aa1b  ;
+  --headline-color-on-white: #0e1303; /* headlines on a colored background */ 
+  --paragraph-color-on-white: #B31312; /* paragraph text on a white background */ 
+  --paragraph-color-on-color: #EA906C; /* paragraph text on a colored background */ 
+  --paragraph-background-color: #EEE2DE  ;
   --nav-link-color: #e8e3e3;
-  --nav-background-color: #D4AC0D;#280909;  /* headlines on a white background */ 
+  --nav-background-color: #ab9e6a;#280909;  /* headlines on a white background */ 
   --headline-color-on-color: 
   --nav-hover-link-color: #fefae0;
-  --nav-hover-background-color: #e8e3e3;
+  --nav-hover-background-color: #479e8d;
  }
 
  /*  Look around below...but DON'T CHANGE ANYTHING! */
