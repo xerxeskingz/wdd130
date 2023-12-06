@@ -239,6 +239,108 @@ footer .social img {
     color: white;
 }
 
+/* new FAQ page */
+
+#faq-banner {
+    display: grid;
+    grid-template-columns: 1fr 3fr 1fr;
+}
+
+#faq-banner-box {
+    grid-column: 1/4;
+    grid-row: 1/3;
+    z-index: -1;
+}
+
+#faq-banner-img {
+    width: 100%;
+}
+
+#faq-title h1{
+    color: #253656;
+    font-family: 'Bubblegum Sans', 'Bradley Hand', sans-serif;
+    font-size: 2em;
+    z-index: 1;
+    margin-top: 170px;
+    opacity: 100%;
+}
+
+#faq-title {
+    grid-column: 2/3;
+    grid-row: 1/2;
+
+    display: grid;
+    grid-template-columns: 1fr;
+
+    align-content: center;
+}
+
+#faq-title div, h1 {
+    grid-column: 1/2;
+    grid-row: 1/2;
+    border-radius: 10px;
+}
+
+#faq-title h1 {
+    align-self: center;
+    justify-self: center;
+    text-align: center;
+    z-index: 1;
+}
+
+#title-background {
+    width: 100%;
+    height: 100%;
+
+    background-color: #fff;
+    opacity: 50%;
+}
+
+.accordion {
+    background-color: #eee;
+    color: #444;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: center;
+    outline: none;
+    font-size: 30px;
+    transition: 0.4s;
+  }
+  
+.active, .accordion:hover {
+    background-color: #ccc;
+  }
+  
+.accordion:after {
+    content: '\002B';
+    color: #777;
+    font-weight: bold;
+    float: right;
+    margin-left: 5px;
+  }
+  
+.active:after {
+    content: "\2212";
+  }
+  
+
+.panel {
+    padding: 0 50px;
+    background-color: white;
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.2s ease-out;
+  }
+
+.faq-background {
+    height: 150px;
+    background-color: #51453C;
+    margin: auto;
+    padding: 0%;
+}
+
 @media screen and (max-width: 900px) {
     #hero, .home-grid {
         display: block;
